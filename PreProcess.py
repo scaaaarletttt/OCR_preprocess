@@ -1,6 +1,7 @@
 import subprocess
 import numpy as np
 import cv2
+import imread from cv2
 import OcropusNormalize as ocropus_norm
 import PageDewarp as page_dewarp
 
